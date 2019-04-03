@@ -1,13 +1,10 @@
-# Implement Digit Classification with Support Vector Machine (SVM)
+# Digit Classification Using Support Vector Machine (SVM)
 
-
----
+In this project, I implement digit classification using `LibSVM` libarary. 
 
 ## Datasets
 
 * The MNIST database of handwritten digits: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
-
----
 
 ## Requirements
 
@@ -16,8 +13,6 @@
 * `numpy`
 * `matplotlib`
 
----
-
 ## Testing Environment  
 
 * sysname: `Linux`  
@@ -25,15 +20,12 @@
 * machine: `x86_64`  
 * python: `3.6.7`
 
----
-
 ## Results
 
 * [Linear SVM](results/Linear_Results.md)
 
 * [RBF SVM (Radial Basis Function)](results/RBF_Results.md)
 
----
 
 ## How to reproduce the results
 
@@ -46,18 +38,25 @@ git clone https://github.com/cjlin1/libsvm.git
 2. Clone my repository:
 
 ```
-git clone 
+git clone https://github.com/lychengr3x/Digit-Classification-Using-SVM.git
 ```
 
 3. Move all my codes into directory `python` of `libsvm`
 
 ```
-mv xxx/* libsvm/python/
+cp -r Digit-Classification-Using-SVM/src/* libsvm/python/
 ```
 
 4. Follow instructions of README in the libsvm. For linux OS, in the `libsvm/python`:
 
 ```
+cd libsvm/python
+make
+```
+
+* Note: If it does not work, go to directory `libsvm`:
+```
+cd ..
 make
 ```
 

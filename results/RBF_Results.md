@@ -1,6 +1,6 @@
 # RBF SVM (Radial Basis Function)  
 
-To find the highest accuracy of the model, I try to set log2C in range of -1 to 3, and log2gamma in range of -4 to 1, and obtain C = 2 and gamma = 0.0625.
+To find the model with the highest accuracy, I try to set log2C in range of -1 to 3, and log2gamma in range of -4 to 1, and obtain C = 2 and gamma = 0.0625.
 
 ## Accuracy (%) For Each Digit  
 
