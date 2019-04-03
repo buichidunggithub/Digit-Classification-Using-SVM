@@ -40,7 +40,7 @@
 | y = 1  | ![](img/c_8_digit_0_max3.png) | ![](img/c_8_digit_1_max3.png) | ![](img/c_8_digit_2_max3.png) | ![](img/c_8_digit_3_max3.png) | ![](img/c_8_digit_4_max3.png) | ![](img/c_8_digit_5_max3.png) | ![](img/c_8_digit_6_max3.png) | ![](img/c_8_digit_7_max3.png) | ![](img/c_8_digit_8_max3.png) | ![](img/c_8_digit_9_max3.png) |
 | y = -1 | ![](img/c_8_digit_0_min3.png) | ![](img/c_8_digit_1_min3.png) | ![](img/c_8_digit_2_min3.png) | ![](img/c_8_digit_3_min3.png) | ![](img/c_8_digit_4_min3.png) | ![](img/c_8_digit_5_min3.png) | ![](img/c_8_digit_6_min3.png) | ![](img/c_8_digit_7_min3.png) | ![](img/c_8_digit_8_min3.png) | ![](img/c_8_digit_9_min3.png) |
 
-## CDF of the margin for each digit
+## CDF Of The Margin For Each Digit
 
 |         |            C = 2             |            C = 4             |            C = 8             |
 | :-----: | :--------------------------: | :--------------------------: | :--------------------------: |

@@ -29,7 +29,7 @@ In this project, I implement digit classification using `LibSVM` libarary.
 
 ## How to reproduce the results
 
-1. Clone the `libsvm` repository: 
+1. Clone the `libsvm` repository:
 
 ```
 git clone https://github.com/cjlin1/libsvm.git
@@ -41,26 +41,27 @@ git clone https://github.com/cjlin1/libsvm.git
 git clone https://github.com/lychengr3x/Digit-Classification-Using-SVM.git
 ```
 
-3. Move all my codes into directory `python` of `libsvm`
+3. Move all my codes into directory `python` of `libsvm`:
 
 ```
 cp -r Digit-Classification-Using-SVM/src/* libsvm/python/
 ```
 
-4. Follow instructions of README in the libsvm. For linux OS, in the `libsvm/python`:
+4. Follow instructions of README in the libsvm. For linux OS, go to the directory `libsvm/python`:
 
 ```
 cd libsvm/python
 make
 ```
 
-* Note: If it does not work, go to directory `libsvm`:
+* Note: If it does not work, go to the directory `libsvm`:
+  
 ```
 cd ..
 make
 ```
 
-5. Now, you can execute the `run_linear_svm.py` and `run_rbf_svm.py`:
+1. Now, you can execute the `run_linear_svm.py` and `run_rbf_svm.py`:
 
 ```
 python run_linear_svm.py

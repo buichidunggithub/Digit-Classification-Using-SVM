@@ -21,7 +21,7 @@ To find the model with the highest accuracy, I try to set log2C in range of -1 t
 | y = 1  | ![](img/rbf_d0_max3.png) | ![](img/rbf_d1_max3.png) | ![](img/rbf_d2_max3.png) | ![](img/rbf_d3_max3.png) | ![](img/rbf_d4_max3.png) | ![](img/rbf_d5_max3.png) | ![](img/rbf_d6_max3.png) | ![](img/rbf_d7_max3.png) | ![](img/rbf_d8_max3.png) | ![](img/rbf_d9_max3.png) |
 | y = -1 | ![](img/rbf_d0_min3.png) | ![](img/rbf_d1_min3.png) | ![](img/rbf_d2_min3.png) | ![](img/rbf_d3_min3.png) | ![](img/rbf_d4_min3.png) | ![](img/rbf_d5_min3.png) | ![](img/rbf_d6_min3.png) | ![](img/rbf_d7_min3.png) | ![](img/rbf_d8_min3.png) | ![](img/rbf_d9_min3.png) |
 
-## CDF of the margin for each digit
+## CDF Of The Margin For Each Digit
 
 |         |                         |
 | :-----: | :---------------------: |
