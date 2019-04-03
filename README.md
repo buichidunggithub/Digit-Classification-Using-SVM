@@ -61,7 +61,7 @@ cd ..
 make
 ```
 
-1. Now, you can execute the `run_linear_svm.py` and `run_rbf_svm.py`:
+5. Now, you can execute the `run_linear_svm.py` and `run_rbf_svm.py`:
 
 ```
 python run_linear_svm.py
